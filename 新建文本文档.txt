@@ -1,8 +1,10 @@
-1 Ö¸¶¨Ô¶³Ì·ÖÖ§url
+1 æŒ‡å®šè¿œç¨‹åˆ†æ”¯url
 git remote add dev-0.1 https://github.com/fuxx/Hexoblog.git
 
-2 ½«±¾µØ·ÖÖ§¹ØÁªµ½Ô¶³Ì·ÖÖ§
+2 å°†æœ¬åœ°åˆ†æ”¯å…³è”åˆ°è¿œç¨‹åˆ†æ”¯
 git --set-upstream  dev-0.1 master 
 
-3 ÍÆËÍµ½Ô¶³Ì·ÖÖ§ÉÏ
+3 æ¨é€åˆ°è¿œç¨‹åˆ†æ”¯ä¸Š
 git push dev-0.1:origin
+
+4 test

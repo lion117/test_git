@@ -1,0 +1,8 @@
+1 指定远程分支url
+git remote add dev-0.1 https://github.com/fuxx/Hexoblog.git
+
+2 将本地分支关联到远程分支
+git --set-upstream  dev-0.1 master 
+
+3 推送到远程分支上
+git push dev-0.1:origin
